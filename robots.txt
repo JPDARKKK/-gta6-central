@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-# Add Sitemap: https://YOUR-DOMAIN/sitemap.xml after deployment
+Sitemap: https://jpdarkkk.github.io/-gta6-central/sitemap.xml

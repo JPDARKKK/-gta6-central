@@ -1,0 +1,9 @@
+GTA 6 CENTRAL V4 — INSTALLATION
+1. Unzip this package.
+2. Upload the HTML files and the assets folder CONTENTS to your GitHub repository root.
+3. Ensure assets/style.css and assets/site.js exist (not at the repository root).
+4. Commit changes; wait for GitHub Pages deployment.
+5. Hard refresh (Ctrl+Shift+R).
+6. Review privacy/contact/legal placeholders before applying for AdSense.
+
+Original CSS-drawn illustration is not Rockstar artwork. This is an independent fan site.
