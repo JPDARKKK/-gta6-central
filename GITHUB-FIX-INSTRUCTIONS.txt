@@ -1,0 +1,6 @@
+GTA 6 CENTRAL - GITHUB PAGES FIX
+1. Extract this ZIP.
+2. Upload ALL contents of gta6-central folder, including assets folder, to repository root.
+3. Ensure assets/style.css and assets/site.js exist in GitHub.
+4. Commit changes, wait for Pages deployment, then hard-refresh Ctrl+Shift+R.
+5. Test https://jpdarkkk.github.io/-gta6-central/assets/style.css?v=2
