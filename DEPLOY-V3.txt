@@ -1,0 +1,6 @@
+GTA 6 Central V3
+Upload all files and folders to the ROOT of https://github.com/jpdarkkk/-gta6-central
+IMPORTANT: assets/style.css and assets/site.js must be INSIDE assets folder.
+Existing HTML pages should be replaced by these updated pages.
+Check https://jpdarkkk.github.io/-gta6-central/assets/style.css?v=3 and then refresh the homepage with Ctrl+Shift+R.
+Before AdSense: replace placeholder contact/privacy information, verify editorial facts, and add substantive original content.
