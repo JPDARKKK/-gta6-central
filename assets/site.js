@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const input=document.querySelector('#search');if(input){input.addEventListener('input',()=>{const q=input.value.toLowerCase().trim();document.querySelectorAll('[data-search]').forEach(el=>{el.hidden=!el.dataset.search.includes(q)})})}});
