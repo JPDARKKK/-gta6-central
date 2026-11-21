@@ -1,0 +1,1 @@
+GTA 6 Central V5 legal pages. Upload the five HTML files to the repository ROOT, replacing existing versions. Do not change assets/style.css or assets/site.js. Preserve Google Search Console verification HTML. Review Google Analytics consent implementation and verify all disclosures before AdSense submission. These templates are not legal advice.
