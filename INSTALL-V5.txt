@@ -1,0 +1,9 @@
+GTA 6 CENTRAL V5 - INSTALLATION
+1. Keep the existing Google Search Console verification HTML file in your GitHub repository.
+2. Upload all files and folders from this ZIP to the root of your existing -gta6-central repository.
+3. Ensure style.css and site.js remain INSIDE assets/ (do not place them at the root).
+4. Commit changes to main and wait for GitHub Pages to deploy.
+5. Hard-refresh the website and test the new guide pages.
+6. Re-submit sitemap.xml in Search Console only if necessary.
+7. Replace any placeholder contact or privacy text before applying to AdSense.
+8. All eight guides are editorial starter drafts; review facts and improve them with first-hand original insights before AdSense submission.
